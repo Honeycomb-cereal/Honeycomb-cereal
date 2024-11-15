@@ -2,7 +2,7 @@ Hi, Honeycomb-Cereal here.
 
 Yes, it is subjectively the best cereal.
 
-I currently am operating in an amateur Full Stack Development capacity.
+I am currently operating in an amateur Full Stack Development capacity.
 
 Additionally, I work on Godot and Web App projects.
 
