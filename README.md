@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Honeycomb-cereal
-- 👀 I’m interested in Game Design / Backend Development
-- 🌱 I’m currently learning Python + GDScript
-- 💞️ I’m looking to collaborate on Game Projects
-- 📫 How to reach me - here!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nah
+Hi, Honeycomb-Cereal here.
+
+Yes, it is subjectively the best cereal.
+
+I currently am operating in an amateur Full Stack Development capacity.
+
+Additionally, I work on Godot and Web App projects.
+
+If you're here because you know me from Hollywood, no you don't.
+
+If you feel incensed to critique my code, please send it to me directly. I love learning.
 
 <!---
 Honeycomb-cereal/Honeycomb-cereal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
