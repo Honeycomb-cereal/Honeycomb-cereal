@@ -6,8 +6,6 @@ I am currently operating in an amateur Full Stack Development capacity.
 
 Additionally, I work on Godot and Web App projects.
 
-If you're here because you know me from Hollywood, no you don't.
-
 If you feel incensed to critique my code, please send it to me directly. I love learning.
 
 <!---
